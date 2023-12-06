@@ -1,0 +1,7 @@
+D:\C#Learning\Labs\ClassDesignTask\CustomerClass\CustomerClass\bin\Debug\CustomerClass.exe.config
+D:\C#Learning\Labs\ClassDesignTask\CustomerClass\CustomerClass\bin\Debug\CustomerClass.exe
+D:\C#Learning\Labs\ClassDesignTask\CustomerClass\CustomerClass\bin\Debug\CustomerClass.pdb
+D:\C#Learning\Labs\ClassDesignTask\CustomerClass\CustomerClass\obj\Debug\CustomerClass.csproj.AssemblyReference.cache
+D:\C#Learning\Labs\ClassDesignTask\CustomerClass\CustomerClass\obj\Debug\CustomerClass.csproj.CoreCompileInputs.cache
+D:\C#Learning\Labs\ClassDesignTask\CustomerClass\CustomerClass\obj\Debug\CustomerClass.exe
+D:\C#Learning\Labs\ClassDesignTask\CustomerClass\CustomerClass\obj\Debug\CustomerClass.pdb
